@@ -10,7 +10,7 @@ This is a simple implementation of the classic Hangman game in Python. The game 
 - Informative messages for the player.
 
 ## How to Play
-1. Run the `hangman.py` script.
+1. Run the `main.py` script.
 2. The game will randomly choose a word, and you'll see the initial state of the word with underscores for each letter.
 3. Guess a letter by entering it when prompted.
 4. The game will reveal the correct positions of the guessed letters or notify you if the letter is incorrect.
